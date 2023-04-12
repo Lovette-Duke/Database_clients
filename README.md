@@ -43,4 +43,4 @@ and perform other operations as needed for the restaurant's daily operations as 
 ### Conclusion
 Setting up the MySQL database using the provided code allows you to create and manage a database for Little Lemon Restaurant, 
 enabling efficient storage and retrieval of data related to menu items, menus, bookings, orders, and employees, 
-and provides detailed instructions for various tasks related to Little Lemon
+and provides detailed instructions for various tasks related to Little Lemon.
